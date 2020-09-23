@@ -1,0 +1,17 @@
+reexre@gmail.com
+------------------------------------------------------------------
+Muscles Driven 2D Ragdoll Physics -  V 3.1  [DirectX]
+------------------------------------------------------------------
+
+
+Now with DIRECTX GRAPHICS!!! ----- 2D Engine based on verlet physics. ----- 
+Main Elements are 3: Point, Link (2 Points), and Muscle (2 Links)----
+The muscle is defined as two links (limbs) , the angle that should occur between them, and the muscle strength. -----
+You Can manually change Muscles Values with Scrollbars. -----
+Can interact with figure with the mouse. ----- [ V.3 ] Added Gravity On/Off. Added Save/Load Pose. ---- [ V3.1 ] Added Muscles Speed Limiter (It Deny too Fast Muscles movement, so it's good for Stability), and Exit button ----- Suggestions for the Physics will be very appreciated. ----- ----- To Run must have dx8vb.dll -----
+
+
+
+
+
+
